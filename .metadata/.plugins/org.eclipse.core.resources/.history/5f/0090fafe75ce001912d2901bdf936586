@@ -1,0 +1,7 @@
+package com.example.demo.filter;
+
+import com.netflix.zuul.ZuulFilter;
+
+public class RouteFIlter extends ZuulFilter{
+
+}

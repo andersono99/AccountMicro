@@ -1,0 +1,7 @@
+package filters.copy;
+
+import com.netflix.zuul.ZuulFilter;
+
+public class ErrorFilter extends ZuulFilter {
+
+}
